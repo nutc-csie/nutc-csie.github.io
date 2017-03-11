@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>國立台中科技大學</title>
+  <subtitle>Department of Computer Science and Information Engineering of NUTC.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://csie.nutc.edu.tw/"/>
+  <updated>2017-03-11T14:58:20.104Z</updated>
+  <id>http://csie.nutc.edu.tw/</id>
+  
+  <author>
+    <name>NUTC CSIE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017 年 3 月 11 號 台北系友聚會</title>
+    <link href="http://csie.nutc.edu.tw/2017/03/11/meetups/2017-03-11-meetup/"/>
+    <id>http://csie.nutc.edu.tw/2017/03/11/meetups/2017-03-11-meetup/</id>
+    <published>2017-03-11T13:26:17.000Z</published>
+    <updated>2017-03-11T14:58:20.104Z</updated>
+    
+    <content type="html"><![CDATA[<p>畢業後最常被問到的事情莫過於餓死抬頭<br>您還在解釋說以前台中商專,一中間那邊,中友隔壁嗎?<br>您還在為了年後換工作煩惱嗎? 您想知道現在產業界的趨勢嗎?<br>您還記得台中科大有資工系嗎? 您的印象還在 妹多 很熱鬧嗎?</p>
+<p>您還記得資工系所是由管科系+資科所所改制的嗎?<br>改制後~我們已經11屆了!! 不一樣了!!</p>
+<p>我們想凝聚<code>台中科大資工</code>的力量在業界的影響力!!</p>
+<a id="more"></a>
+<h2 id="議題分享"><a href="#議題分享" class="headerlink" title="議題分享"></a>議題分享</h2><p>(TBD)…</p>
+<h2 id="提供建議"><a href="#提供建議" class="headerlink" title="提供建議"></a>提供建議</h2><ol>
+<li>未來可進行黑客松性質活動</li>
+<li>場地提供未來可以找認識的, 或有更佳的選擇</li>
+<li>技術交流可以焦距主題來發起</li>
+<li>是否導入 kktix 來提供報名管理, 方便統計人數</li>
+<li>若之後空間大的話, 技術分享與大家聊天空間可以分離, 來避免影響講者</li>
+<li>每屆畢業生可找兩名有意願的學長姐弟妹來協助進行活動招集</li>
+<li>分享會議盡可能以 Light talk 為主, 這樣可以聽到比較多人的想法</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;畢業後最常被問到的事情莫過於餓死抬頭&lt;br&gt;您還在解釋說以前台中商專,一中間那邊,中友隔壁嗎?&lt;br&gt;您還在為了年後換工作煩惱嗎? 您想知道現在產業界的趨勢嗎?&lt;br&gt;您還記得台中科大有資工系嗎? 您的印象還在 妹多 很熱鬧嗎?&lt;/p&gt;
+&lt;p&gt;您還記得資工系所是由管科系+資科所所改制的嗎?&lt;br&gt;改制後~我們已經11屆了!! 不一樣了!!&lt;/p&gt;
+&lt;p&gt;我們想凝聚&lt;code&gt;台中科大資工&lt;/code&gt;的力量在業界的影響力!!&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Meetup" scheme="http://csie.nutc.edu.tw/categories/Meetup/"/>
+    
+    
+      <category term="Taipei" scheme="http://csie.nutc.edu.tw/tags/Taipei/"/>
+    
+      <category term="Meetup" scheme="http://csie.nutc.edu.tw/tags/Meetup/"/>
+    
+  </entry>
+  
+</feed>
